@@ -1,3 +1,5 @@
+package ExerciciosDeLogica;
+
 import java.io.FilterOutputStream;
 
 public class Exercise07_BooleanComparison {
