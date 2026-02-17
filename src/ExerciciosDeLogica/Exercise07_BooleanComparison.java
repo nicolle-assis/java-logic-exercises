@@ -1,4 +1,4 @@
-import java.io.FilterOutputStream;
+package ExerciciosDeLogica;
 
 public class Exercise07_BooleanComparison {
     public static void main(String[] args) {
