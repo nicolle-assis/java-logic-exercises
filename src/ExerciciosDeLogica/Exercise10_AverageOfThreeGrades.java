@@ -12,10 +12,11 @@ public class Exercise10_AverageOfThreeGrades {
 
             sum += grades[i];
             c += 1;
-            average = sum / c;
 
             System.out.println(c+"º Nota do aluno: "+grades[i]);
         }
+        average = sum / grades.length;
+
 
         System.out.println("Média final: "+average);
     }
